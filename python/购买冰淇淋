@@ -1,0 +1,46 @@
+Last login: Tue Dec 16 11:58:42 on ttys000
+imacsiMac:~ imac$ cd python/
+imacsiMac:python imac$ vim 1.py
+imacsiMac:python imac$ vim 1.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#!/usr/bin/env python
+#_*_coding:utf-8_*_
+
+def machine(x=3, y='巧克力'):
+            #设置默认参数要自右向左,此例不可以设置只设置x默认参数,而y默认参数为>空    print '生成一个', x, '元', y, '口味的冰淇淋！'
+
+s1 = raw_input('请问您想要购买多少钱的冰淇淋?')
+s2 = raw_input('请输入您喜欢的口味：')
+
+machine(s1, s2)
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"1.py" 11L, 383C written

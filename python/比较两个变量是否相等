@@ -1,0 +1,48 @@
+Last login: Tue Dec 16 11:58:42 on ttys000
+imacsiMac:~ imac$ cd python/
+imacsiMac:python imac$ vim 1.py
+imacsiMac:python imac$ vim 1.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#!/usr/bin/env python
+#_*_coding:utf-8_*_
+
+def fun(x,y):
+    if x == y:
+        print x, '等于', y
+    else:
+        print x, '不等于', y
+s1 = raw_input('input first number:')
+s2 = raw_input('input second number:')
+fun(s2, s1)
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"1.py" 11L, 218C written
